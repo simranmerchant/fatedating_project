@@ -1,4 +1,4 @@
-# fatedating_project
+# mini_flutter_app
 
 A new Flutter project.
 
